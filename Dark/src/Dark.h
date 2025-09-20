@@ -4,6 +4,7 @@
 
 #include "Dark/Core.h"
 #include "Dark/Application.h"
+#include "Dark/Log.h"
 
 // ---- Entry Point ----
 #include "Dark/EntryPoint.h"
